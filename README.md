@@ -21,3 +21,6 @@ The script will generate a CSV file named "imdb_webscrapes.csv" containing the e
 
 ## Source
 http://www.imdb.com/search/title?sort=num_votes,desc&start=1&title_type=feature&year=1950,2012
+
+## Context 
+This project was carried out whilst attending a TechTalent Data Science Bootcamp during June & July 2023 
