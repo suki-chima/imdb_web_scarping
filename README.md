@@ -7,11 +7,14 @@ This is a simple web scraper built to extract data from the IMDb website's top m
 ## step 1 
 Reading: The scraper reads the HTML content of the IMDB webpage using Python's requests library.
 
-## step 2 : The BeautifulSoup library is used to parse and beautify the HTML code, making it more understandable and easier to work with.
+## step 2 
+The BeautifulSoup library is used to parse and beautify the HTML code, making it more understandable and easier to work with.
 
-## step 3 : The required movie-related information, title and rating are  is extracted from the webpage by identifying the relevant HTML tags assocuated with the required information. 
+## step 3 
+The required movie-related information, title and rating are  is extracted from the webpage by identifying the relevant HTML tags assocuated with the required information. 
 
-## step 4 : The extracted data is transformed into a structured format, such as a CSV file, making it easy to store, analyse or share the data.
+## step 4 
+The extracted data is transformed into a structured format, such as a CSV file, making it easy to store, analyse or share the data.
 
 ## step 5 
 The script will generate a CSV file named "imdb_webscrapes.csv" containing the extracted data. It will include columns such as title and rating for each of the top 50 movies with the most votes.
